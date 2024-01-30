@@ -14,5 +14,5 @@ class Settings(models.Model):
         verbose_name_plural = 'Settings'
 
     def __str__(self):
-        return self.title   
+        return self.title  
 
